@@ -7,7 +7,7 @@ for(let i in sArray){
     }
 }
 if(count>0){
-    console.log("yes");
+    console.log("yes ---------");
 }
 else{
     console.log("No");
