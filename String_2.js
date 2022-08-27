@@ -49,7 +49,7 @@ const oj = function(ob){
    
 }
 console.log(ob);
-console.log(oj(ob)); */
+console.log(oj(ob)); checking the output*/
 
 
 
